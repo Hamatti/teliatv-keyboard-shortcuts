@@ -2,6 +2,12 @@
 
 ![](project-logo-teliatv-shortcuts.png)
 
+## UPDATE Nov 2021
+
+This functionality is now provided natively by the TeliaTV web player so this extension is no longer needed. I'll keep the repository here for a reference sake.
+
+## Introduction
+
 Telia TV is a streaming service with one annoying feature: it doesn't support using `m` key to mute nor `f` key to toggle fullscreen like almost any other player in the web these days.
 
 I built this unpacked (at least until I can fix all the issues) Chrome extension to solve that problem.
